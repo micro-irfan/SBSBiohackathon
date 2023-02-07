@@ -1,7 +1,5 @@
 # SBS BioHackathon Python AY22/23
 
-![alt text](https://github.com/micro-irfan/SBSBiohackathon/misc/img.jpeg)
-
 Code Repository for a Python Workshops prepared for Biological Science Undergrads in Nanyang Technological University under SBS Biohackathon committee. 
 
 Semester 1
